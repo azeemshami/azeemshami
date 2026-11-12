@@ -1,217 +1,277 @@
 <div align="center">
 
-# Muhammad Azeem Shami
+<img src="assets/hero-banner.svg" width="100%" alt="Azeem Shami — AI Engineer and Full-Stack Developer" />
 
-### Senior Full-Stack Developer · AI Engineer
+<br/>
 
-**Building intelligent products, scalable platforms, and AI-powered experiences.**
+<a href="https://azeemshami.com"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muhammad-azeem-shami-8384b0114/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:azeemshami222@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://github.com/azeemshami"><img src="https://img.shields.io/github/followers/azeemshami?label=FOLLOW&style=for-the-badge&logo=github&color=111827" /></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-azeemshami.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://azeemshami.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-azeem-shami-8384b0114/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azeemshami222@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/azeemshami)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=55D6FF&center=true&vCenter=true&width=760&lines=Senior+Full-Stack+Developer;AI+%26+LLM+Application+Engineer;Building+SaaS+%26+Healthcare+Platforms;Turning+complex+ideas+into+shipped+products" alt="Typing headline" />
+
+<br/>
+
+![Experience](https://img.shields.io/badge/EXPERIENCE-8%2B_YEARS-101827?style=flat-square&labelColor=101827&color=8B5CF6)
+![Focus](https://img.shields.io/badge/FOCUS-AI_%2F_FULL_STACK-101827?style=flat-square&labelColor=101827&color=06B6D4)
+![Location](https://img.shields.io/badge/BASED_IN-LAHORE%2C_PAKISTAN-101827?style=flat-square&labelColor=101827&color=10B981)
 
 </div>
 
 ---
 
-## `whoami`
+## `01 / THE ENGINEER`
 
-I'm a **Senior Full-Stack Developer and AI Engineer** with 8+ years of experience designing, developing, and scaling SaaS applications, AI-powered products, and healthcare platforms.
+I'm **Muhammad Azeem Shami** — a Senior Full-Stack Developer and AI Engineer with 8+ years of experience building SaaS products, AI-powered applications, and healthcare platforms.
 
-My work combines full-stack engineering, backend architecture, cloud infrastructure, and practical AI integration. I enjoy turning complex business problems into reliable, scalable software.
+I work across the stack: from designing backend systems and distributed architectures to shipping polished user experiences and integrating production LLM capabilities.
 
-- Building production-ready applications with Python, Node.js, TypeScript, and React.
-- Integrating LLMs, RAG workflows, embeddings, and AI-powered automation.
-- Designing scalable microservices and multi-tenant SaaS architectures.
-- Developing healthcare platforms, EHR systems, patient portals, and revenue cycle management solutions.
-- Leading engineering teams, mentoring developers, and driving technical decisions.
-
-```python
-class AzeemShami:
-    def __init__(self):
-        self.role = "Senior Full-Stack Developer | AI Engineer"
-        self.experience = "8+ Years"
-        self.location = "Lahore, Pakistan"
-
-        self.languages = [
-            "Python",
-            "TypeScript",
-            "JavaScript",
-            "PHP"
-        ]
-
-        self.interests = [
-            "Artificial Intelligence",
-            "LLM Engineering",
-            "SaaS Architecture",
-            "Healthcare Technology",
-            "Distributed Systems"
-        ]
-
-    def currently_building(self):
-        return "AI-powered products and scalable software"
+```text
+BUILD  →  ARCHITECT  →  INTEGRATE  →  OPTIMIZE  →  SHIP
 ```
 
-## `tech_stack`
+- **AI engineering:** multi-model integrations, LLM workflows, embeddings, prompt engineering, AI guardrails and model routing.
+- **Backend systems:** Python, Node.js, NestJS, Django, FastAPI, REST, GraphQL and microservices.
+- **Product engineering:** React, Next.js, Vue, TypeScript and modern UI systems.
+- **Cloud & delivery:** AWS, Docker, Kubernetes, CI/CD and production operations.
+- **Domain experience:** SaaS, healthcare / EHR, RCM, LegalTech, telecom and e-commerce.
 
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-### AI / Machine Learning
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_GenAI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-5B4BDB?style=flat-square)
-![Whisper](https://img.shields.io/badge/Whisper_AI-412991?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Embeddings-0A9396?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_&_LLM_Workflows-7C3AED?style=flat-square)
-
-### Backend Engineering
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-### Frontend Engineering
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
-
-### Databases & Messaging
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square)
-
-### Cloud, DevOps & Architecture
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-6C63FF?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
----
-
-## `featured_projects`
-
-A selection of personal products and engineering projects.
-
-### Personal Products
-
-| Project                                        | Description                                                                                | Technologies                 |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------- |
-| [Robalax Tools](https://robalaxtools.com)      | Online developer utilities and productivity tools.                                         | JavaScript, Web Technologies |
-| [DrawingNotebook](https://drawingnotebook.com) | Online drawing and notebook experience.                                                    | Web Technologies             |
-| [PomoMapAI](https://pomomapai.com)             | AI-powered productivity platform combining Pomodoro timers, projects, tasks, and planning. | React, AI, Web Technologies  |
-
-### AI & Engineering Projects
-
-**AI Engine Service**
-
-A multi-provider AI gateway focused on intelligent model routing, provider adapters, reliability, fallback handling, request throttling, and usage metering.
-
-**AI Connect – Multi-Model AI Backend**
-
-Designed a cost-efficient backend service integrating OpenAI, Claude, Gemini, and DeepSeek with intelligent request routing, throttling, embeddings, and Azure-based deployments.
-
-**AI Assistant for Patent Lawyers**
-
-Developed a multi-model legal AI assistant with domain-specific prompt engineering, model selection, and workflows for patent research and drafting.
-
-**Healthcare EHR Platform**
-
-Worked on an end-to-end healthcare platform covering Electronic Health Records, Revenue Cycle Management, clearing-house integrations, appointment scheduling, clinical documentation, and patient portals.
-
-**YouTube Transcriber**
-
-A Python/FastAPI service that converts YouTube video content into text transcriptions through an API.
-
----
-
-## `professional_highlights`
-
-Some measurable outcomes from my engineering experience:
-
-- **90% faster** clinical documentation workflow after optimizing a core healthcare screen, reducing load time from 5 minutes to 30 seconds.
-- **40% fewer** user-reported issues through improved feature integration and engineering practices.
-- **30% improvement** in AI model accuracy through prompt engineering and evaluation cycles in legal technology.
-- **40% faster deployments** through CI/CD pipeline improvements.
-- Led and mentored engineering teams of up to **6 developers**.
-- Designed multi-tenant architectures and migrated legacy systems to modern scalable platforms.
-
-**Industries:** Healthcare · LegalTech · Enterprise SaaS · Telecommunications · E-commerce
-
----
-
-## `certifications`
-
-### Professional Certifications
-
-| Certification                                                                                            | Issuer | Date           |
-| -------------------------------------------------------------------------------------------------------- | ------ | -------------- |
-| [Google AI Professional Certificate](https://coursera.org/share/c9d72c147ac5c66f991704d5f327f64c)        | Google | September 2026 |
-| [Python for Data Science, AI & Development](https://coursera.org/share/77b816ed69fdd82f2f7d01e287cdd29f) | IBM    | September 2026 |
-| [Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/QMZNUV1470DS)     | IBM    | October 2026   |
-
----
-
-## `github_analytics`
+## `02 / CORE TECHNOLOGY`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=azeemshami&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+### AI / LLM ENGINEERING
+<img src="https://skillicons.dev/icons?i=openai,python&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LiteLLM-6D5DFB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Whisper_STT-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG_%26_Embeddings-0E7490?style=for-the-badge" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeemshami&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+### LANGUAGES & BACKEND
+<img src="https://skillicons.dev/icons?i=python,ts,js,php,nodejs,nestjs,express,fastapi,django,laravel&theme=dark" />
 
-<img src="https://streak-stats.demolab.com?user=azeemshami&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+### FRONTEND
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,html,css&theme=dark" />
+
+### DATA & INFRASTRUCTURE
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,aws,docker,kubernetes,kafka,githubactions,grafana&theme=dark" />
 
 </div>
 
----
+<details>
+<summary><b>More of my engineering toolkit</b></summary>
+<br/>
 
-## `currently_exploring`
+**Architecture & APIs:** Microservices, GraphQL Federation, RESTful APIs, WebSockets, Socket.io, event-driven systems, serverless.
 
-- Advanced LLM application architecture
-- RAG pipelines and evaluation strategies
-- AI agents and tool orchestration
-- Multi-model inference and intelligent routing
-- Scalable AI SaaS platforms
-- Cloud-native backend architectures
+**Backend:** Django REST Framework, Flask, Node-RED, TypeORM, NestJS, Express, Laravel, CodeIgniter.
+
+**Frontend:** React Remix, Zustand, Radix UI, shadcn/ui, Chakra UI, Redux Toolkit, Tailwind CSS, micro-frontends.
+
+**Data & search:** PostgreSQL, MongoDB, MySQL, Redis, DynamoDB, OpenSearch, Kafka.
+
+**Cloud & delivery:** AWS EC2, S3, Lambda, CloudFront, CloudWatch, Kubernetes, Docker, Vercel, GitHub Actions, CI/CD, Grafana.
+
+**Integrations:** Stripe, PayPal, Availity, Agora SDK, WordPress plugins, Shopify apps.
+
+</details>
+
+## `03 / SELECTED BUILDS`
+
+<div align="center">
+
+<a href="https://robalaxtools.com">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=azeemshami&repo=robalaxtools&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://pomomapai.com">
+  <img src="https://img.shields.io/badge/PomoMapAI-AI_Productivity_Platform-7C3AED?style=for-the-badge&logo= todoist&logoColor=white" />
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Robalax Tools
+**Developer utilities for everyday workflows.**
+
+A collection of practical online tools designed to make common developer tasks faster and easier.
+
+[**Explore robalaxtools.com ↗**](https://robalaxtools.com)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ DrawingNotebook
+**A digital space for drawing and notes.**
+
+A personal product focused on an accessible online drawing and notebook experience.
+
+[**Explore drawingnotebook.com ↗**](https://drawingnotebook.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ PomoMapAI
+**AI-assisted productivity.**
+
+A productivity platform bringing together Pomodoro sessions, projects, tasks and AI planning.
+
+[**Explore pomomapai.com ↗**](https://pomomapai.com)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ AI Engine Service
+**A multi-provider AI gateway.**
+
+A backend service focused on provider adapters, intelligent model routing, fallback handling, reliability, throttling and usage metering.
+
+[**Explore repository ↗**](https://github.com/azeemshami/ai-engine-service)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ AI Connect
+**Multi-model AI backend.**
+
+Integrated OpenAI, Claude, Gemini and DeepSeek with intelligent routing, embeddings, throttling and Azure deployments.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Legal AI Assistant
+**AI workflows for patent professionals.**
+
+A multi-model legal assistant designed around domain-specific prompt engineering, research and drafting workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Healthcare EHR Platform
+**Healthcare workflows at scale.**
+
+Contributed to EHR, patient portal, clinical documentation, Revenue Cycle Management and clearing-house integrations.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ YouTube Transcriber
+**Video-to-text API.**
+
+A Python / FastAPI service that accepts YouTube URLs and produces text transcriptions.
+
+</td>
+</tr>
+</table>
+
+## `04 / IMPACT IN PRODUCTION`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h2>90%</h2>
+<sub>Faster clinical workflow load time</sub>
+</td>
+<td align="center" width="25%">
+<h2>40%</h2>
+<sub>Fewer user-reported issues</sub>
+</td>
+<td align="center" width="25%">
+<h2>30%</h2>
+<sub>AI accuracy improvement</sub>
+</td>
+<td align="center" width="25%">
+<h2>6</h2>
+<sub>Engineers led / mentored</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+- Reduced a clinical documentation screen's load time from **5 minutes to 30 seconds**.
+- Helped reduce user-reported issues by **40%** through improved feature integration.
+- Improved legal AI model accuracy by **30%** through prompt engineering and evaluation.
+- Reduced deployment time by **40%** through CI/CD pipeline improvements.
+- Led engineering teams of up to **6 developers**.
+
+## `05 / CERTIFICATIONS`
+
+<div align="center">
+
+<a href="https://coursera.org/share/c9d72c147ac5c66f991704d5f327f64c">
+  <img src="https://img.shields.io/badge/GOOGLE-AI_PROFESSIONAL-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</a>
+<a href="https://coursera.org/share/77b816ed69fdd82f2f7d01e287cdd29f">
+  <img src="https://img.shields.io/badge/IBM-PYTHON_FOR_DATA_SCIENCE_%26_AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/QMZNUV1470DS">
+  <img src="https://img.shields.io/badge/IBM-MACHINE_LEARNING_WITH_PYTHON-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+</a>
+
+</div>
+
+- **Google AI Professional Certificate** — Google · September 2026
+- **Python for Data Science, AI & Development** — IBM · September 2026
+- **Machine Learning with Python** — IBM · October 2026
+
+## `06 / GITHUB SIGNAL`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=azeemshami&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=55D6FF&icon_color=8B5CF6" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeemshami&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=55D6FF" />
+
+<img width="80%" src="https://streak-stats.demolab.com?user=azeemshami&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=55D6FF&currStreakLabel=55D6FF" />
+
+### Contribution graph
+
+<img src="https://raw.githubusercontent.com/azeemshami/azeemshami/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+
+</div>
+
+## `07 / CURRENTLY EXPLORING`
+
+```yaml
+ai_engineering:
+  - LLM application architecture
+  - RAG pipelines and evaluation
+  - AI agents and tool orchestration
+  - Multi-model inference and intelligent routing
+
+software_engineering:
+  - Distributed systems
+  - Cloud-native architecture
+  - Reliable and observable microservices
+  - Scalable SaaS product design
+```
 
 ---
 
 <div align="center">
 
-### Let's build something intelligent.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:0891B2&height=120&section=footer" width="100%" />
 
-**Open to interesting engineering challenges, AI collaborations, and product-building opportunities.**
+### HAVE AN INTERESTING PROBLEM? LET'S BUILD.
 
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-7C3AED?style=for-the-badge)](https://azeemshami.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-azeem-shami-8384b0114/)
+<a href="https://azeemshami.com">PORTFOLIO</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-azeem-shami-8384b0114/">LINKEDIN</a> &nbsp;·&nbsp;
+<a href="mailto:azeemshami222@gmail.com">EMAIL</a>
 
-<sub>Designed and built with curiosity, engineering, and AI.</sub>
+<sub>Engineering ideas into reality — one commit at a time.</sub>
 
 </div>
